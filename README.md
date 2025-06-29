@@ -1,8 +1,8 @@
-# FinDo - Personal Finance Manager
+FinDo - Personal Finance Manager
 
 FinDo is a modern, full-stack personal finance management application that helps users track their expenses, manage budgets, and gain insights into their spending habits. Built with Next.js, FastAPI, and PostgreSQL, FinDo offers a responsive and intuitive user interface with powerful backend capabilities.
 
-## Features
+Features
 
 - 💰 Expense tracking with categories
 - 📊 Interactive dashboards and reports
@@ -13,25 +13,24 @@ FinDo is a modern, full-stack personal finance management application that helps
 - 🧠 ML-powered expense categorization
 - 🐳 Docker containerization for easy deployment
 
-## Tech Stack
+Tech Stack
 
-- **Frontend**: Next.js 13, TypeScript, Tailwind CSS, React Query
-- **Backend**: FastAPI, Python 3.9+
-- **Database**: PostgreSQL
-- **ML Service**: scikit-learn for expense categorization
-- **Containerization**: Docker, Docker Compose
-- **Authentication**: JWT
-- **Caching**: Redis
-
-## Prerequisites
+- Frontend: Next.js 13, TypeScript, Tailwind CSS, React Query
+- Backend: FastAPI, Python 3.9+
+- Database: PostgreSQL
+- ML Service: scikit-learn for expense categorization
+- Containerization: Docker, Docker Compose
+- Authentication: JWT
+- Caching: Redis
+ Prerequisites
 
 - Docker and Docker Compose
 - Node.js 18+ (for local frontend development)
 - Python 3.9+ (for local backend development)
 
-## Getting Started
+ Getting Started
 
-### With Docker (Recommended)
+ With Docker (Recommended)
 
 1. Clone the repository:
    ```bash
@@ -147,7 +146,7 @@ Once the backend is running, you can access the interactive API documentation at
 
 ## Environment Variables
 
-### Backend
+ Backend
 
 - `DATABASE_URL`: PostgreSQL connection string
 - `SECRET_KEY`: Secret key for JWT token generation
@@ -156,15 +155,15 @@ Once the backend is running, you can access the interactive API documentation at
 - `REDIS_URL`: Redis connection URL
 - `ML_SERVICE_URL`: URL of the ML service (default: http://ml-service:8001)
 
-### Frontend
+Frontend
 
 - `NEXT_PUBLIC_API_URL`: URL of the backend API
 
-## License
+ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
+ Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -172,7 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Acknowledgements
+Acknowledgements
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Next.js](https://nextjs.org/)
@@ -180,6 +179,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React Query](https://tanstack.com/query)
 - [scikit-learn](https://scikit-learn.org/)
 
----
-
-Made with ❤️ by Your Name
