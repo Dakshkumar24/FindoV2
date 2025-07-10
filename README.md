@@ -1,4 +1,6 @@
 🚧 **Project Status: In Progress** 🚧  
+
+
 This project is actively being developed. Features may change, and things might be broken!
 FinDo - Personal Finance Manager
 FinDo is a modern, full-stack personal finance management application that helps users track their expenses, manage budgets, and gain insights into their spending habits. Built with Next.js, FastAPI, and PostgreSQL, FinDo offers a responsive and intuitive user interface with powerful backend capabilities.
