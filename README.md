@@ -30,7 +30,7 @@ Tech Stack
 
  Getting Started
 
- With Docker (Recommended)
+ With Docker 
 
 1. Clone the repository:
    ```bash
