@@ -1,20 +1,17 @@
-🚧 **Project Status: In Progress** 🚧  
+FinDoV2 – Personal Finance Manager 🚧 In Progress 🚧
+FinDoV2 is a modern, full-stack personal finance management app that helps users track expenses, manage budgets, and gain insights into their spending. Inspired by tools like Mint and YNAB, FinDoV2 offers a customizable, open-source alternative with a clean UI and smart features.
 
+Built with Next.js, FastAPI, and PostgreSQL, it includes:
 
-This project is actively being developed. Features may change, and things might be broken!
-FinDo - Personal Finance Manager
-FinDo is a modern, full-stack personal finance management application that helps users track their expenses, manage budgets, and gain insights into their spending habits. Built with Next.js, FastAPI, and PostgreSQL, FinDo offers a responsive and intuitive user interface with powerful backend capabilities.
+💰 Expense tracking & budgeting
 
-Features
+📊 Interactive dashboards
 
-- 💰 Expense tracking with categories
-- 📊 Interactive dashboards and reports
-- 🔒 Secure user authentication
-- 📱 Responsive design for all devices
-- 🎨 Dark/Light mode
-- 🚀 Fast and efficient API with FastAPI
-- 🧠 ML-powered expense categorization
-- 🐳 Docker containerization for easy deployment
+🔐 Secure JWT authentication
+
+🧠 ML-powered expense categorization
+
+🐳 Dockerized for easy deployment
 
 Tech Stack
 
